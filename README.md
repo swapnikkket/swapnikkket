@@ -1,108 +1,69 @@
-<h1 align="center">Hi 👋, I'm Swapniket Mahajan</h1>
-<h3 align="center">Software Engineer | Backend & Distributed Systems Enthusiast</h3>
-
 <p align="center">
-  <a href="https://github.com/swapnikkket">
-    <img src="https://komarev.com/ghpvc/?username=swapnikkket&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Swapniket%20🚀&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
----
+<h3 align="center">Software Engineer | Backend & Cloud Enthusiast</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/swapnikkket">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/swapnikkket">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mswapniket@gmail.com">
+    <img height="40" src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+```yaml
+name: Swapniket Mahajan
+role: Software Engineer @ Tech Mahindra
+location: Pune, India
 
-## 💼 About Me
+currently_working_on:
+  - Large scale telecom transformation (VMO2 UK)
+  - Enterprise middleware architecture
 
-🚀 Software Engineer at **Tech Mahindra**  
-🌍 Worked on telecom transformation projects (VMO2 UK, Telefonica Germany)  
-🧠 Interested in Backend Architecture, Middleware Systems & Cloud  
-📍 Based in Pune, India  
+interests:
+  - Backend Systems
+  - Cloud Architecture
+  - Distributed Systems
+  - DevOps & Automation
 
-I build scalable backend systems, middleware layers, and secure APIs that connect legacy enterprise systems with modern cloud-native infrastructure.
+certifications:
+  - AWS Solutions Architect Associate
+  - AWS Machine Learning Engineer Associate
 
----
-
-## 🏢 Work Experience
-
-### 🔹 Software Engineer — Tech Mahindra (VMO2 UK) | Dec 2025 – Present
-
-- Leading requirement analysis for large-scale digital integration  
-- Designing system architecture blueprints for legacy modernization  
-- Building proof-of-concept (POC) systems for workflow validation  
-- Standardizing development workflows for enterprise delivery  
-
----
-
-### 🔹 Software Engineer — Tech Mahindra (Telefonica Germany) | Jan 2025 – Aug 2025
-
-- Engineered high-throughput middleware using **Node.js & Express**
-- Built monitoring dashboard using **React + Redux**
-- Reduced manual reporting time by **40%**
-- Implemented **JWT authentication & secure API gateways**
-- Designed modular UI library using **Tailwind & Atomic Design**
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 RentMate
-Full-stack rental & roommate discovery platform (MERN)
-
-- JWT Authentication & Ownership-based Authorization  
-- Cloudinary media handling  
-- Mobile-first React SPA  
+goal:
+  - Build scalable production-grade systems
 
 ---
 
-### 🚗 Vaahan
-Vehicle rental platform with payment integration
+## 🧰 5️⃣ Tech Stack (Using DevIcons – Clean Look)
 
-- Stripe Payment Integration  
-- OAuth 2.0 + JWT Security  
-- 3D Interactive Vehicle Models  
-- Proximity-based search system  
 
----
+<h2>🚀 Tech Stack</h2>
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-Java • JavaScript • Python • SQL • C • C++ • Swift  
-
-### ⚙️ Backend
-Node.js • Express • REST APIs • JWT • OAuth  
-
-### 🌐 Frontend
-React.js • Redux • Tailwind CSS  
-
-### 🗄 Databases
-MongoDB • PostgreSQL • MySQL  
-
-### ☁️ Cloud & Tools
-AWS • Docker • Linux • Git • Postman • JIRA  
-
----
-
-## 🏆 Certifications
-
-🎖 AWS Certified Solutions Architect – Associate (SAA-C03)  
-🎖 AWS Certified Machine Learning Engineer – Associate (MLA-C01)  
-
----
-
-## 📊 GitHub Stats
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+</p>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swapnikkket&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnikkket&theme=tokyonight" />
 </p>
+![Snake animation](https://github.com/swapnikkket/swapnikkket/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 📫 Connect With Me
-
-📧 mswapniket@gmail.com  
-🔗 https://linkedin.com/in/swapnikkket  
-💻 https://github.com/swapnikkket  
-
----
-
-<h3 align="center">Building scalable systems. Solving real-world problems. 🚀</h3>
